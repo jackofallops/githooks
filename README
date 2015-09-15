@@ -1,0 +1,3 @@
+Each 'hook' contained here should be fairly obviously named
+
+puppet3-precommit.rb - pre-commit hook for puppet3.x environments using hiera.  Expects puppet-lint, puppet 3.x and ruby to be installed
