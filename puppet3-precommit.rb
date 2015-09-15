@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-require 'YAML'
+require 'yaml'
 require 'open3'
 
 $yaml_changes = []
